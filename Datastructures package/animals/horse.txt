@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+herbivorous
+Is it herbivorous?
+Domestic
+Is it a wild animal?
+horse
+Is it used in transportation?
+-1

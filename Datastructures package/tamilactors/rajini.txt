@@ -1,0 +1,11 @@
+actor
+Is he an actor?
+male
+Is he a male actor?
+Tamil
+Does he belong to Tamil Cinemas?
+old
+Is the age your actor above 50?
+Rajini
+Is he the superstar?
+-1

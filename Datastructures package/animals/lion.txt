@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+carnivorous
+Is it carnivorous?
+wild
+Is it a wild animal?
+Lion
+Is it the king of the jungle?
+-1

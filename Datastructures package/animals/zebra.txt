@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+herbivorous
+Is it herbivorous?
+wild
+Is it a wild animal?
+zebra
+Does it have stripes?
+-1

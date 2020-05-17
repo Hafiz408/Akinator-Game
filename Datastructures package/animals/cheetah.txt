@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+carnivorous
+Is it carnivorous?
+wild
+Is it a wild animal?
+cheetah
+Is it the fastest animal?
+-1

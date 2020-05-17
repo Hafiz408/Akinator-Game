@@ -1,0 +1,11 @@
+actor
+Is he an actor?
+male
+Is he a male actor?
+Tamil
+Does he belong to Tamil Cinemas?
+old
+Is the age of your actor above 50?
+Vikram
+Is your actor a fitness freak?
+-1

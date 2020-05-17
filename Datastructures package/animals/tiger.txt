@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+carnivorous
+Is it carnivorous?
+wild
+Is it a wild animal?
+tiger
+Does it have stripes?
+-1

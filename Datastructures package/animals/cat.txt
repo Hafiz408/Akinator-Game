@@ -1,0 +1,9 @@
+Animal
+Is it an animal?
+carnivorous
+Is it carnivorous?
+Domestic
+Is it a wild animal?
+cat
+Is it cunning?
+-1

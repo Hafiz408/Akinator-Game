@@ -1,0 +1,11 @@
+actor
+Is he an actor?
+male
+Is he a male actor?
+Tamil
+Does he belong to Tamil Cinemas?
+young
+Is your actor below 50? 
+Dhanush
+Is your actor related to superstar?
+-1

@@ -1,0 +1,11 @@
+actor
+Is he an actor?
+male
+Is he a male actor?
+Tamil
+Does he belong to Tamil Cinemas?
+young
+Is your actor below 50? 
+Vishal
+Is your actor the "Puratchi Thalapathy"?
+-1
